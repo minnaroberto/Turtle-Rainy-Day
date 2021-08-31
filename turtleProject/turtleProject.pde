@@ -5,7 +5,7 @@
 * 
 * Code References: 
 * Minim Audio Code used from: http://www.cs.cmu.edu/~jar/cn21.pdf
-* Used in lines: 22-24 and 50-52
+* Used in lines: 20-22 and 49-51
 *
 * Resources Used:
 *   Turtle Image: https://giphy.com/stickers/KellyvillePets-kp-kpets-kellyvillepets-QBeQkMh2isRHa7csKM 
